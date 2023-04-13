@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UiCameraUsingKotlin</string>
+    <string name="Login_Button">Login</string>
+    <string name="Remember_Me">Remember Me</string>
+    <string name="Password_Name">Password</string>
+    <string name="User_Name">UserName</string>
+    <string name="Forgot_Password">Forgot Password?</string>
+</resources>
